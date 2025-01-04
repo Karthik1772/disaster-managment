@@ -1,16 +1,60 @@
-# dis
+# Disaster Management System
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This **Disaster Management System** is a mobile app developed using **Flutter**. It helps users by providing information about ongoing and upcoming disasters. The app includes features for alerting users, displaying real-time updates, and providing relevant resources to ensure safety during a disaster.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Disaster Alerts**: Get real-time alerts about natural disasters.
+- **Resource Directory**: Access emergency contact numbers, shelters, and evacuation routes.
+- **Safety Tips**: Learn best practices to stay safe during different types of disasters.
+- **Location Tracking**: Monitor disaster-prone areas and receive location-based notifications.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+Ensure that you have **Flutter** and **Dart** installed. If not, follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+
+### Steps to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Karthik1772/disaster-managment.git
+   ```
+
+2. Navigate to the project folder:
+   ```bash
+   cd disaster-managment
+   ```
+
+3. Install the dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app on an emulator or connected device:
+   ```bash
+   flutter run
+   ```
+
+## Technologies Used
+
+- **Flutter**: Framework for building the mobile app.
+- **Dart**: Programming language used for development.
+- **Firebase (optional)**: For real-time alerts and notifications.
+
+## Screenshots
+
+*(Include relevant screenshots of the app’s user interface and features)*
+
+## License
+
+This project is open-source and licensed under the [MIT License](LICENSE).
+
+## Contributing
+
+Contributions are welcome! Fork the repository, create a new branch, and submit a pull request with your changes.
+
+---
