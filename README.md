@@ -45,9 +45,6 @@ Ensure that you have **Flutter** and **Dart** installed. If not, follow the offi
 - **Dart**: Programming language used for development.
 - **Firebase (optional)**: For real-time alerts and notifications.
 
-## Screenshots
-
-*(Include relevant screenshots of the app’s user interface and features)*
 
 ## License
 
